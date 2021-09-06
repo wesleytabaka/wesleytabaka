@@ -9,15 +9,17 @@
   - Java
   - Raspberry Pi
   - Linux
-  - SQL
+  - SQL (MySQL, SQL Server)
   - MongoDB
   - Neo4j
   - Angular
   - PHP
   - DC electronics
   - Cars
+  - Cooking
   
 - 🌱 I’m currently learning ...
+  - In depth git features
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - https://wesleytabaka.com/contact
