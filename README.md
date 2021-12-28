@@ -14,12 +14,13 @@
   - Neo4j
   - Angular
   - PHP
+  - Docker
   - DC electronics
   - Cars
   - Cooking
   
 - 🌱 I’m currently learning ...
-  - In depth git features
+  - Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - https://wesleytabaka.com/contact
