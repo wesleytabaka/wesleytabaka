@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @wesleytabaka
+- ✔️ I pronounce it *GIF* with a "G".
 - 👀 I’m interested in ...
   - TypeScript
   - Javascript
@@ -18,13 +19,14 @@
   - DC electronics
   - Cars
   - Cooking
-  
 - 🌱 I’m currently learning ...
   - Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - https://wesleytabaka.com/contact
   - wesley@wesleytabaka.com
+
+
 
 <!---
 wesleytabaka/wesleytabaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
