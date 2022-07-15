@@ -7,6 +7,7 @@
   - C
   - C++
   - C#
+  - Rust
   - Java
   - Raspberry Pi
   - Linux
